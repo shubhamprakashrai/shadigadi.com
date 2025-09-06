@@ -1,0 +1,1 @@
+export 'package:shaadigadi/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
